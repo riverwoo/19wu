@@ -65,7 +65,7 @@ group mysql2_group do
   gem 'mysql2', '0.3.11'
 end
 
-gem 'devise', '~> 3.0.1'
+gem 'devise', '~> 4.2'
 gem 'devise_invitable', github: 'scambra/devise_invitable'
 gem 'settingslogic'
 gem "delayed_job", "~> 4.0.0.beta2"
