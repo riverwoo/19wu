@@ -26,7 +26,7 @@ if RUBY_VERSION =~ /1.9/
   Encoding.default_internal = Encoding::UTF_8
 end
 
-gem 'rails', '~> 4.0.0'
+gem 'rails', '~> 2.2.2'
 gem 'slim-rails', '~> 1.1.1'
 gem 'simple_form', '~> 3.0.0.rc'
 gem 'ransack'
